@@ -11,5 +11,5 @@ This C program finds the *largest number* among user-given elements in an array.
 - Arrays  
 - Loops  
 - Conditional statements
-- check them out github.com/vamsidola9-sketch
-  
+- check them out
+  Created by [Vamsi Dola](https://github.com/vamsidola9-sketch)
